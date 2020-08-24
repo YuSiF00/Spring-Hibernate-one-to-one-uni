@@ -25,7 +25,7 @@ public class DeleteDemo {
 		Session session = factory.getCurrentSession();
 		
 		try {
-			int instructorId = 2;
+			int instructorId = 3;
 						
 			//start a transaction
 			session.beginTransaction();
